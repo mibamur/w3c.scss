@@ -1,0 +1,21 @@
+{
+  "name": "w3c.scss",
+  "homepage": "https://github.com/mibamur/w3c.scss",
+  "authors": [
+    "mibamur@gmail.com"
+  ],
+  "description": "SCSS version w3c.css",
+  "main": "w3c.scss",
+  "keywords": [
+    "w3c",
+    "scss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
